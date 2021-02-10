@@ -1,4 +1,5 @@
 
 
 def reverse_list(input):
-    return input.reverse()
+    input.reverse()
+    return input
